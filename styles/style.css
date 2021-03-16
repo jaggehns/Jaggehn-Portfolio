@@ -310,6 +310,19 @@ nav ul {
           flex: 1 1 40rem;
 }
 
+.coloors,
+.beatmaker,
+.photon,
+.todo {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 40rem;
+          flex: 1 1 40rem;
+}
+
+.photon {
+  margin-bottom: 10rem;
+}
+
 .form-section {
   min-height: 80vh;
   display: -webkit-box;
